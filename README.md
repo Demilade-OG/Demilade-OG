@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Demilade-OG
-- 👀 I’m interested in building softwares that would make people's lives easier
+- 👀 I’m interested in building software that would make people's lives easier
 - 🌱 I’m currently learning Native Android Development with Kotlin
 - 💞️ I’m looking to collaborate on any project to help me get  better
 - 📫 How to reach me.. @demiladecoded77@gmail.com
